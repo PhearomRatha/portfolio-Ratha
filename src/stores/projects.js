@@ -11,7 +11,7 @@ export const projects = [
     name: "Zcode Learning Platform",
     description: "A Vue 3 project simulating an online learning platform. Focused on modern front-end features, component design, and interactive UI elements.",
     image: "/Image/Zcode.png",
-    technologies: ["Vue 3"],
+    technologies: ["Vue 3","tailwind"],
     link: "https://ppy-3.vercel.app/",
     git: "https://github.com/PhearomRatha/PPY3.git"
   },
@@ -27,7 +27,7 @@ export const projects = [
     name: "Stock Inventory Frontend",
     description: "A React-based web app for managing stock inventory with dynamic data display and user-friendly interfaces, built collaboratively with my team.",
     image: "/Image/stockInventory.png",
-    technologies: ["React"],
+    technologies: ["React","tailwind"],
     link: "#",
     git: "https://github.com/Bunchhorng/Inventery-management.git"
   },
