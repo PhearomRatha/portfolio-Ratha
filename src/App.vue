@@ -149,11 +149,7 @@ const navLinks = [
   { name: 'contact', label: 'Contact' }
 ]
 
-// Computed
-const themeClasses = computed(() => ({
-  'dark': store.theme === 'dark',
-  'light': store.theme === 'light'
-}))
+
 
 // Methods
 const showToast = (message, type = 'info', duration = 3000) => {
@@ -234,7 +230,7 @@ onMounted(() => {
   
   // Example: Show welcome toast
   setTimeout(() => {
-    showToast('Welcome to my portfolio!', 'info', 4000)
+    showToast(' keep going !', 'info', 4000)
   }, 1000)
 })
 

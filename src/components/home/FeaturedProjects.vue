@@ -60,13 +60,13 @@
 
             <!-- GitHub -->
             <a
-              v-if="project.github"
-              :href="project.github"
+              v-if="project.git"
+              :href="project.git"
               target="_blank"
               class="px-5 py-2 text-sm font-semibold rounded-lg
                      border border-gray-300 dark:border-gray-600
                      text-gray-700 dark:text-gray-300
-                     hover:bg-gray-100 dark:hover:bg-gray-700 bg-red-600
+                     hover:bg-gray-100 dark:hover:bg-gray-700 
                      transition"
             >
               View GitHub
