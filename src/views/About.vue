@@ -15,7 +15,7 @@
     <!-- Experience List -->
             <div class="max-w-4xl mx-auto text-center mb-12">
       <h2 class="text-3xl md:text-4xl font-bold text-gray-800 dark:text-white mb-4">
-        About <span class="text-primary-600">Me</span>
+        Experence 
       </h2>
    
     </div>
