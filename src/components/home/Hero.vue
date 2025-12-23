@@ -51,7 +51,7 @@
           </router-link>
           
           <a
-            href="/public/Phearom Ratha Curriculum Vitae.pdf"
+            href="/Phearom Ratha Curriculum Vitae.pdf"
             class="px-6 py-3 border border-zinc-300 dark:border-zinc-700 text-zinc-800 dark:text-white rounded-lg hover:border-blue-500 dark:hover:border-blue-400 hover:text-blue-600 dark:hover:text-blue-400 transition-all duration-300 font-medium flex items-center justify-center"
           >
             <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
