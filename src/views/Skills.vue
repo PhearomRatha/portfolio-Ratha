@@ -31,7 +31,7 @@
       <!-- Backend Skills -->
       <div class="mb-12">
         <h2 class="text-2xl font-bold text-gray-800 dark:text-white mb-8 flex items-center">
-          <span class="mr-3">🚀</span> Backend Development
+          <span class="mr-3"></span> Backend Development
         </h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
           <SkillCard 
@@ -45,7 +45,7 @@
       <!-- Tools & Others -->
       <div>
         <h2 class="text-2xl font-bold text-gray-800 dark:text-white mb-8 flex items-center">
-          <span class="mr-3">🛠️</span> Tools & Others
+          <span class="mr-3"></span> Tools & Others
         </h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
           <SkillCard 
@@ -93,7 +93,7 @@
 
 <script setup>
 import { computed } from 'vue'
-import { skills } from '../data/skills.js'  // <-- import your skills data
+import { skills } from '../stores/skills.js'  
 import SkillCard from '../components/skills/SkillCard.vue'
 
 // Filter skills by category

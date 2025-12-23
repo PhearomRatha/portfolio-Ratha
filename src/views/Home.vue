@@ -52,7 +52,7 @@
 </template>
 
 <script setup>
-import { skills } from "../data/skills.js";
+import { skills } from "../stores/skills.js";
 import { usePortfolioStore } from '../stores/portfolio';
 import Hero from '../components/home/Hero.vue';
 import FeaturedProjects from '../components/home/FeaturedProjects.vue';

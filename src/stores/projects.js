@@ -2,7 +2,7 @@ export const projects = [
   {
     name: "YouTube Clone",
     description: "A personal project replicating the basic layout and functionality of YouTube using HTML and CSS. Perfect for practicing responsive design and layout skills.",
-    image: "/src/assets/Image/Youtube.png",
+    image: "../assets/Image/Youtube.png",
     technologies: ["HTML", "CSS"],
     link: "https://youtube-ten-wine.vercel.app/",
     git: "https://github.com/PhearomRatha/Youtube.git"
