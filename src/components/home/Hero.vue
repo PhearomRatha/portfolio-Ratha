@@ -78,7 +78,7 @@
           <!-- Main circular image -->
           <div class="absolute inset-2 rounded-full overflow-hidden border-4 border-white dark:border-zinc-800 shadow-2xl">
             <img 
-              src="/public/Image/profile.png" 
+              src="/public/Image/photo_2025-12-24_11-05-07.jpg" 
               alt="Alex Morgan" 
               class="w-full h-full object-cover"
             />
