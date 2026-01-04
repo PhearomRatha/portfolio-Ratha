@@ -20,7 +20,7 @@
             <img
               src="/public/Image/profile.png"
               alt="Ratha"
-              class="w-full h-full object-fit"
+              class="w-full h-full object-cover"
             />
           </div>
 
