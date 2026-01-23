@@ -29,7 +29,7 @@ export const projects = [
     image: "/Image/stockInventory.png",
     technologies: ["React","tailwind"],
     link: "https://stock-inventory-front.vercel.app/",
-    git: "https://github.com/Bunchhorng/Inventery-management.git"
+    git: "https://github.com/PhearomRatha/StockInventoryFront.git"
   },
   {
     name: "Stock Inventory Backend",
