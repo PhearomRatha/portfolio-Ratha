@@ -24,14 +24,6 @@ export const projects = [
     git: "https://github.com/PhearomRatha/ExpenseProject-small-.git"
   },
   {
-    name: "Stock Inventory Frontend",
-    description: "A React-based web app for managing stock inventory with dynamic data display and user-friendly interfaces, built collaboratively with my team.",
-    image: "/Image/stockInventory.png",
-    technologies: ["React","tailwind"],
-    link: "https://stock-inventory-front.vercel.app/",
-    git: "https://github.com/PhearomRatha/StockInventoryFront.git"
-  },
-  {
     name: "Stock Inventory Backend",
     description: "Backend system for inventory management built with Laravel, featuring database management, RESTful APIs, and authentication. Deployment is in progress.",
     image: "/Image/stockInventory1.png",
