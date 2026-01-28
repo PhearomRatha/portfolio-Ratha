@@ -15,13 +15,13 @@ export const projects = [
     link: "https://ppy-3.vercel.app/",
     git: "https://github.com/PhearomRatha/PPY3.git"
   },
-    {
-    name: "Expense Project small",
-    description: "A Vue 3 project for first start of learning vue testing with expense project",
-    image: "/Image/expense.png",
-    technologies: ["Vue 3"],
-    link: "https://expense-project-small.vercel.app/",
-    git: "https://github.com/PhearomRatha/ExpenseProject-small-.git"
+     {
+    name: "Stock Inventory Frontend",
+    description: "A React-based web app for managing stock inventory with dynamic data display and user-friendly interfaces, built collaboratively with my team.",
+    image: "/Image/stockInventory.png",
+    technologies: ["React","tailwind"],
+    link: "https://stock-inventory-front.vercel.app/",
+    git: "https://github.com/PhearomRatha/StockInventoryFront.git"
   },
   {
     name: "Stock Inventory Backend",
